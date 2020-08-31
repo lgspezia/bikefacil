@@ -1,0 +1,96 @@
+.jumbotron {
+  background: #0a4199; /*#532F8C;*/
+
+  color: white;
+  padding-bottom: 80px; }
+  .jumbotron .btn-primary {
+    /*background: #845ac7;*/
+    background-color: #0a4199;
+    border-color: #174fa8; /*#05388b*/ }
+    .jumbotron .btn-primary:hover {
+      background: #05388b; /*#174fa8*/ }
+  .jumbotron p {
+    color: #d9ccee;
+    max-width: 75%;
+    margin: 1em auto 2em; }
+  .navbar + .jumbotron {
+    margin-top: -20px; }
+  .jumbotron .lang-logo {
+    display: block;
+    background: #B01302;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: 2px solid white; }
+    .jumbotron .lang-logo img {
+      max-width: 100%; }
+
+.fundo-branco {
+  background-color: white;
+}      
+
+.fundo-branco-t {  
+  background-color: rgba(250, 250, 250, .9);
+}     
+
+.fundo-preto-t {
+  background-color: rgba(0, 0, 0, .3);
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-75 {
+  width: 75%;
+}
+
+.pad-10 {
+  padding: 10px;
+}
+
+.pad-20 {
+  padding: 20px;
+}
+
+.pad-x-10 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.pad-x-20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.pad-y-10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.b-radius {
+  border-radius: 4px;
+}
+
+.p-center {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.a-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.text-blue {
+  color: #05388b;
+}
+
+.font-18 {
+  font-size: 18px;
+}
